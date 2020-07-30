@@ -1161,6 +1161,11 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
   }
 }
+.cid-s6crk0L4Ts {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1542,29 +1547,37 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s6bBeTy9i8 {
+.cid-s6cqRoV4VR {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
-.cid-s6bBeTy9i8 P {
+.cid-s6cqRoV4VR P {
   color: #767676;
 }
-.cid-s6bBoCM0RG {
+.cid-s6cr6higP5 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s6bBoCM0RG .mbr-text,
-.cid-s6bBoCM0RG blockquote {
+.cid-s6cr6higP5 .mbr-text,
+.cid-s6cr6higP5 blockquote {
   color: #767676;
 }
-.cid-s6bBp8JAOp {
+.cid-s6cr6higP5 P {
+  text-align: left;
+}
+.cid-s6crdYfGV0 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s6bBp8JAOp .mbr-text,
-.cid-s6bBp8JAOp blockquote {
+.cid-s6crdYfGV0 .mbr-text,
+.cid-s6crdYfGV0 blockquote {
   color: #767676;
+}
+.cid-s6crk0L4Ts {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
