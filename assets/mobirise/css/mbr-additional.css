@@ -1744,6 +1744,15 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s8xNLjrHIP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s8xNLjrHIP .mbr-text,
+.cid-s8xNLjrHIP blockquote {
+  color: #767676;
+}
 .cid-s7SGnVlNB0 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2208,6 +2217,41 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-s8ykHemeDJ {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s8ykHemeDJ P {
+  color: #767676;
+}
+.cid-s8ykSY9By9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s8ykSY9By9 .mbr-text,
+.cid-s8ykSY9By9 blockquote {
+  color: #767676;
+}
+.cid-s8ykT6pj1u {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s8ykT6pj1u .mbr-text,
+.cid-s8ykT6pj1u blockquote {
+  color: #767676;
+}
+.cid-s8yl6GgY6d {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s8yl6GgY6d .mbr-text,
+.cid-s8yl6GgY6d blockquote {
+  color: #767676;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2594,6 +2638,46 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-s8ylly1uIR {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s8ylly1uIR P {
+  color: #767676;
+}
+.cid-s8ylq6ZMzL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s8ylq6ZMzL .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s8ylq6ZMzL .section-text {
+  padding: 2rem 0;
+}
+.cid-s8ylq6ZMzL .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s8ylq6ZMzL .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s8ylqGjEHW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s8ylqGjEHW .mbr-text,
+.cid-s8ylqGjEHW blockquote {
+  color: #767676;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2979,4 +3063,12 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-s8yluRF7SC {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s8yluRF7SC P {
+  color: #767676;
 }
