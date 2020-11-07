@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 58,
+    "uniqCompNum": 61,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png"
@@ -1583,13 +1583,70 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Semester 2 - Part 2</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 11 - Session 1</b></span></p><p><span style=\"font-style: normal;\">First day back after the mid-semester break. Not much has been done on my side during the semester break. Catching up with assignments took up majority of the time. But right back to the task assigned by Rob and Fasial. Hoping to complete the lab we did for Fasial.</span></p><p><span style=\"font-style: normal;\"><b>Week 11 - Session 2</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Semester 2 - Part 2</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 11 - Session 1</b></span></p><p><span style=\"font-style: normal;\">First day back after the mid-semester break. Not much has been done on my side during the semester break. Catching up with assignments took up majority of the time. But right back to the task assigned by Rob and Fasial. Hoping to complete the lab we did for Fasial.</span></p><p><span style=\"font-style: normal;\"><b>Week 11 - Session 2</b></span></p><p><span style=\"font-style: normal;\">Not much was done once again however we had a guest vistor/speaker from Onecall. His visit was basically giving us an introduction for the company he works for along with outlining some of the services and projects they work on. It turned out to be quite interesting hearing from someone from the industry,&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sd9Sr2h2ux",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
           "_anchor": "content2-1l"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 12 Session 1</b></span></p><p><span style=\"font-style: normal;\">No progress once again. We seem to always encounter DNS errors for the exchange server. Things starting to pile up with assignments in other papers has made motivation to complete the task quite daunting.&nbsp;</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 12 Session 2</b></span></p><p><span style=\"font-style: normal;\">A bit of a hiccup and wake up call as we were notifed of a complaint from Microsoft about one of our resources. It seemed that one of our members had violated a 'Acceptable Use Policy Violation'. Due to this we had to change the way we connect to our Azure services and VMs. In short, VM's that were connected using public Ip's had to be shutdown and an alternative solution was needed. This affected Nic, Gabriel, and I as the lab we have been working on for the exchange server uses a public IP. Not that we have been making any progress anyway.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sfDbtdD3Gu",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1m"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 13 Session 1</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 13 Session 2</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sfDbuaoTbf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1n"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 14 Session 1</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 14 Session 2</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sfDbFViU69",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1o"
         },
         {
           "alias": false,
