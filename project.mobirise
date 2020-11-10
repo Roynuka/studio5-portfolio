@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png"
@@ -1602,7 +1602,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 12 Session 1</b></span></p><p><span style=\"font-style: normal;\">No progress once again. We seem to always encounter DNS errors for the exchange server. Things starting to pile up with assignments in other papers has made motivation to complete the task quite daunting.&nbsp;</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 12 Session 2</b></span></p><p><span style=\"font-style: normal;\">A bit of a hiccup and wake up call as we were notifed of a complaint from Microsoft about one of our resources. It seemed that one of our members had violated a 'Acceptable Use Policy Violation'. Due to this we had to change the way we connect to our Azure services and VMs. In short, VM's that were connected using public Ip's had to be shutdown and an alternative solution was needed. This affected Nic, Gabriel, and I as the lab we have been working on for the exchange server uses a public IP. Not that we have been making any progress anyway.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 12 Session 1</b></span></p><p><span style=\"font-style: normal;\">No progress once again. We seem to always encounter DNS errors for the exchange server. Things starting to pile up with assignments in other papers has made motivation to complete the task quite daunting.&nbsp;</span></p><p><span style=\"font-style: normal;\">We also had another meeting with Ange with regards to our big project with Rob. As the big plan was to migrate all the current servers we have at the moment to cloud. This meeting being a follow up to our first one in the frist half of the semester. In the meeting we discussed&nbsp;</span></p><p><span style=\"font-style: normal;\">- follow up from first meeting</span></p><p><span style=\"font-style: normal;\">- retired unused servers</span></p><p><span style=\"font-style: normal;\">- discussed possible solutions to implement cloud services for db3 servers with Krissi</span></p><p><span style=\"font-style: normal;\">But in short it was pretty much looking ahead to what needs to be done for Krissi's classes that she teaches. More to come in the future.&nbsp;</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 12 Session 2</b></span></p><p><span style=\"font-style: normal;\">A bit of a hiccup and wake up call as we were notifed of a complaint from Microsoft about one of our resources. It seemed that one of our members had violated a 'Acceptable Use Policy Violation'. Due to this we had to change the way we connect to our Azure services and VMs. In short, VM's that were connected using public Ip's had to be shutdown and an alternative solution was needed. This affected Nic, Gabriel, and I as the lab we have been working on for the exchange server uses a public IP. Not that we have been making any progress anyway.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sfDbtdD3Gu",
           "_protectedParams": [],
           "_global": false,
@@ -1640,13 +1640,32 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 14 Session 1</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>Week 14 Session 2</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 14 Session 1</b></span></p><p><span style=\"font-style: normal;\">Unfortunately I missed this session for studio 5/project 1.&nbsp;</span></p><p><span style=\"font-style: normal;\"><b>Week 14 Session 2</b></span></p><p><span style=\"font-style: normal;\">As the semester nears the end, assignents start taking up more of our time leading to working on other tasks during studio 5/project 1 time. Due to this I spoke to my team mates regarding our task for Fasial. We were unable to fully complete due to running into DNS errors. With other papers taking up more of our time especially important assignments. For myself I decided to focus on that instead for the time being.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sfDbFViU69",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
           "_anchor": "content2-1o"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Week 15 Session 1</b></span></p><p><span style=\"font-style: normal;\">Unfortunately I missed this weeks first session. As showcase draws closer we discussed amongst ourselves what we would showcase. As this particular day is the culmination of our degree and the project/studio 5 paper. Our hard work being showcased and the project we've been working on. More to come.&nbsp;</span></p><p><span style=\"font-style: normal;\"><b>Week 15 Session 2</b></span></p><p><span style=\"font-style: normal;\">Nothing much to report for this session other than this will be the last post for the semester. Our portfolio due today. With this all I can say is that i'm looking forward to the showcase the following week. Wish me luck</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sfVF11OzgV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1p"
         },
         {
           "alias": false,
